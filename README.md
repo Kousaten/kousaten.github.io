@@ -30,4 +30,4 @@ Kousaten ❤️ Open Source
 - 代码编写规范: [coding-standards](coding-standards.md)
 - 软件使用文档: [Brix](Brix.md)
 
-## 贡献者
+## Contributors
