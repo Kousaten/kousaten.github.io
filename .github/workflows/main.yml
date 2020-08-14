@@ -15,7 +15,7 @@ jobs:
       uses: BobAnkh/add-contributors@v0.0.5
       with:
         REPO_NAME: 'Kousaten/kousaten.github.io'
-        CONTRIBUTOR: '## 贡献者'
+        CONTRIBUTOR: '## Contributors'
         COLUMN_PER_ROW: '6'
         ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
         IMG_WIDTH: '100'
