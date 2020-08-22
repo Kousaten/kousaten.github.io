@@ -10,9 +10,7 @@ Chat On [Gitter](https://gitter.im/Kousaten-Dev/community?utm_source=badge&utm_m
 
 > Show the use of the project, project structure, etc.
 
-English | 中文 | 日本語 | Esperanto
-
-( Multi-language is not supported yet | 暂不支持其他语言 | 複数の言語をサポートしていません | Ne subtenas plurajn lingvojn )
+English | [中文](README.zh)
 
 ## Brief
 
